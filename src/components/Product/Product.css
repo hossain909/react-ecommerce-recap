@@ -1,0 +1,22 @@
+.product {
+  display: flex;
+  margin-left: 50px;
+  border-bottom: 1px solid gray;
+  border-right: 1px solid gray;
+}
+.product-info {
+  margin-left: 20px;
+}
+.product-info h2 {
+  color: blue;
+  font-weight: 400;
+  font-size: 20px;
+}
+button {
+  background-color: orange;
+  border: 1px solid gray;
+  padding: 8px 30px;
+  font-size: 17px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
